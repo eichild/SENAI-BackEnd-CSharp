@@ -1,0 +1,11 @@
+C:\Users\fic\Documents\SENAI-BackEnd-CSharp\aulaCondicional\bin\Debug\netcoreapp2.2\aulaCondicional.deps.json
+C:\Users\fic\Documents\SENAI-BackEnd-CSharp\aulaCondicional\bin\Debug\netcoreapp2.2\aulaCondicional.runtimeconfig.json
+C:\Users\fic\Documents\SENAI-BackEnd-CSharp\aulaCondicional\bin\Debug\netcoreapp2.2\aulaCondicional.runtimeconfig.dev.json
+C:\Users\fic\Documents\SENAI-BackEnd-CSharp\aulaCondicional\bin\Debug\netcoreapp2.2\aulaCondicional.dll
+C:\Users\fic\Documents\SENAI-BackEnd-CSharp\aulaCondicional\bin\Debug\netcoreapp2.2\aulaCondicional.pdb
+C:\Users\fic\Documents\SENAI-BackEnd-CSharp\aulaCondicional\obj\Debug\netcoreapp2.2\aulaCondicional.csprojAssemblyReference.cache
+C:\Users\fic\Documents\SENAI-BackEnd-CSharp\aulaCondicional\obj\Debug\netcoreapp2.2\aulaCondicional.csproj.CoreCompileInputs.cache
+C:\Users\fic\Documents\SENAI-BackEnd-CSharp\aulaCondicional\obj\Debug\netcoreapp2.2\aulaCondicional.AssemblyInfoInputs.cache
+C:\Users\fic\Documents\SENAI-BackEnd-CSharp\aulaCondicional\obj\Debug\netcoreapp2.2\aulaCondicional.AssemblyInfo.cs
+C:\Users\fic\Documents\SENAI-BackEnd-CSharp\aulaCondicional\obj\Debug\netcoreapp2.2\aulaCondicional.dll
+C:\Users\fic\Documents\SENAI-BackEnd-CSharp\aulaCondicional\obj\Debug\netcoreapp2.2\aulaCondicional.pdb
