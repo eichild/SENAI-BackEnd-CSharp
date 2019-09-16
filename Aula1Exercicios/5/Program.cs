@@ -24,7 +24,7 @@ namespace _5
 
              Console.Write("\nNome: "+nome+"\n\nSalario fixo: R$"+salario+"\n\nSalario a receber: R$"+salarioFinal);
 
-            
+             ConsoleColor: while (true);
              {
                  
              }

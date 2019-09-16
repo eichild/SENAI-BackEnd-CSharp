@@ -17,7 +17,7 @@ namespace _3
             vendas = int.Parse(Console.ReadLine());
 
             resultado=(vendas*0.05)+salario;
-            Console.Write("O total a receber é: R$"+resultado);
+            Console.Write("O total a receber é: "+resultado);
         }
     }
 }

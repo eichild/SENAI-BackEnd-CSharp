@@ -35,7 +35,7 @@ namespace Aula1
 
             media=(num1+num2+num3)/3;
 
-            Console.WriteLine("Sua média é : " +media); 
+            Console.WriteLine("Sua média é : " +media);
         }
     }
 }
