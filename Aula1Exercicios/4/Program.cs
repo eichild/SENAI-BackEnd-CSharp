@@ -10,15 +10,15 @@ namespace _4
             float resultado;
             float dolar;
 
-            Console.Write("Digite o valor em reais para conversão: ");
+            Console.Write("Digite o valor em reais para conversão: R$");
             valor = float.Parse(Console.ReadLine());
 
-            Console.Write("Digite o valor do dolar atual: ");
+            Console.Write("Digite o valor do dolar atual: $");
             dolar= float.Parse(Console.ReadLine());
 
             resultado=valor/dolar;
 
-            Console.Write("O valor da conversão é: "+resultado);
+            Console.Write("O valor da conversão é: $"+resultado);
         }
     }
 }
