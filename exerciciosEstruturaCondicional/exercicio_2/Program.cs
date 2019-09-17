@@ -8,7 +8,7 @@ namespace exercicio_2
         {
            double precoTotal;
            
-           Console.Write("Escreva o preço total:");
+           Console.Write("Escreva o preço total: ");
            precoTotal=double.Parse(Console.ReadLine());
 
             if(precoTotal>100){
