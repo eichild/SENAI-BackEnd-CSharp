@@ -11,7 +11,7 @@ namespace exercicio_2
            Console.Write("Escreva o preço total:");
            precoTotal=double.Parse(Console.ReadLine());
 
-            if(precoTotal<100){
+            if(precoTotal>100){
                 precoTotal= precoTotal - 25;
             }
             Console.Write("Preço a ser pago: "+precoTotal);
