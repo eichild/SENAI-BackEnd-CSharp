@@ -21,13 +21,13 @@ namespace aulaCondicional
 
             //IF ENCADEADO
             if(media>=6){
-                Console.WriteLine("Media: "+media+"--> Aprovado");
+                Console.WriteLine("Media: "+media+" --> Aprovado");
             }
             else if(media<6 && media>=4){
-                Console.WriteLine("Media: "+media+"--> Recuperação");
+                Console.WriteLine("Media: "+media+" --> Recuperação");
             }
             else{
-                Console.WriteLine("Media: "+media+"--> Reprovado");
+                Console.WriteLine("Media: "+media+" --> Reprovado");
             }
             }
         }
