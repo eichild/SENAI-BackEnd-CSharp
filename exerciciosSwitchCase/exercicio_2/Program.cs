@@ -13,7 +13,7 @@ namespace exercicio_2
             Console.Write("Digite seu peso: ");
             peso = float.Parse(Console.ReadLine());
 
-            Console.WriteLine("1-MERCURIO 2-VÊNUS  3-MARTE\n4-JÚPITER 5-SATURNO 6-URANO");
+            Console.WriteLine("1-MERCURIO 2-VÊNUS  3-MARTE\n4-JÚPITER 5-SATURNO 6-URANO ");
             Console.Write("Digite o numero do planeta que deseja: ");
             planeta= Console.ReadLine();
 

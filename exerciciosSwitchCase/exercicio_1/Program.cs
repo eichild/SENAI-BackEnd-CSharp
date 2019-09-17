@@ -23,7 +23,7 @@ namespace exercicio_1
                 break;
 
                 case "3":
-                pedido = "Cheese Burguer";
+                pedido = "Cheese Burguer ";
                 break;
 
                 case "4":
