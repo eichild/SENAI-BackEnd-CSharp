@@ -6,6 +6,7 @@ namespace exercicio_2
     {
         static void Main(string[] args)
         {
+            //Elabore um algoritmo que mostre o resultado da tabuada de um número inteiro dado pelo usuário.
             int num,res;
             
             Console.Write("Digite o numero que deseja mostrar a tabuada: ");
