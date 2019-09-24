@@ -1,0 +1,11 @@
+C:\Users\fic\Documents\SENAI-BackEnd-CSharp\validadorDeCNPJ\bin\Debug\netcoreapp2.2\validadorDeCNPJ.deps.json
+C:\Users\fic\Documents\SENAI-BackEnd-CSharp\validadorDeCNPJ\bin\Debug\netcoreapp2.2\validadorDeCNPJ.runtimeconfig.json
+C:\Users\fic\Documents\SENAI-BackEnd-CSharp\validadorDeCNPJ\bin\Debug\netcoreapp2.2\validadorDeCNPJ.runtimeconfig.dev.json
+C:\Users\fic\Documents\SENAI-BackEnd-CSharp\validadorDeCNPJ\bin\Debug\netcoreapp2.2\validadorDeCNPJ.dll
+C:\Users\fic\Documents\SENAI-BackEnd-CSharp\validadorDeCNPJ\bin\Debug\netcoreapp2.2\validadorDeCNPJ.pdb
+C:\Users\fic\Documents\SENAI-BackEnd-CSharp\validadorDeCNPJ\obj\Debug\netcoreapp2.2\validadorDeCNPJ.csprojAssemblyReference.cache
+C:\Users\fic\Documents\SENAI-BackEnd-CSharp\validadorDeCNPJ\obj\Debug\netcoreapp2.2\validadorDeCNPJ.csproj.CoreCompileInputs.cache
+C:\Users\fic\Documents\SENAI-BackEnd-CSharp\validadorDeCNPJ\obj\Debug\netcoreapp2.2\validadorDeCNPJ.AssemblyInfoInputs.cache
+C:\Users\fic\Documents\SENAI-BackEnd-CSharp\validadorDeCNPJ\obj\Debug\netcoreapp2.2\validadorDeCNPJ.AssemblyInfo.cs
+C:\Users\fic\Documents\SENAI-BackEnd-CSharp\validadorDeCNPJ\obj\Debug\netcoreapp2.2\validadorDeCNPJ.dll
+C:\Users\fic\Documents\SENAI-BackEnd-CSharp\validadorDeCNPJ\obj\Debug\netcoreapp2.2\validadorDeCNPJ.pdb
