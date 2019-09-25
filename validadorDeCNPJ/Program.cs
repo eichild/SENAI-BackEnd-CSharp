@@ -30,7 +30,7 @@ namespace validadorDeCNPJ {
 
             for(int i=0;i<11;i++){
                 //Calculando os numeros do cpf com o vetor criado, convertendo de char para string e depois para inteiro
-                calculo+= int.Parse(cnpjUsuario[i].ToString())*vetor[i];
+                calculo+= int.Parse(cnpjCalculo[i].ToString())*vetor[i];
             }
             resto=calculo%11;
             calculo=11-resto;
@@ -44,6 +44,31 @@ namespace validadorDeCNPJ {
 
             if(digitoVerificador1==cnpjUsuario[12].ToString()){
                 resultado=true;
+            }
+
+              //SEGUNDO DIGITO VERIFICADOR
+            int[] vetor2 = { 6, 5, 4, 3, 2, 9, 8, 7, 6, 5, 4, 3, 2 };
+            resto = 0;
+            cnpjCalculo = cnpjCalculo + calculo.ToString ();
+            calculo = 0;
+
+            for (int i = 0; i <= 12; i++) {
+                //Calculando os numeros do cnpj com o vetor criado, convertendo de char para string e de string para inteiro 
+                calculo += int.Parse (cnpjUsuario[i].ToString ()) * vetor2[i];
+            }
+            resto = calculo % 11;
+            calculo = 11 - resto;
+
+            if (calculo > 12) {
+                digitoVerificador2 = "0";
+            } else {
+                digitoVerificador2 = calculo.ToString ();
+            }
+
+            if (digitoVerificador2 == cnpjUsuario[13].ToString ()) {
+                resultado = true;
+            }else{
+                resultado=false;
             }
             return resultado;
             //Segunto verificador
