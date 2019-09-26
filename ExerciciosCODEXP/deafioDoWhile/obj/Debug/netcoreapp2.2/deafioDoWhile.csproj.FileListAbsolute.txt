@@ -1,0 +1,11 @@
+C:\Users\fic\Documents\SENAI-BackEnd-CSharp\deafioDoWhile\obj\Debug\netcoreapp2.2\deafioDoWhile.csprojAssemblyReference.cache
+C:\Users\fic\Documents\SENAI-BackEnd-CSharp\deafioDoWhile\obj\Debug\netcoreapp2.2\deafioDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\fic\Documents\SENAI-BackEnd-CSharp\deafioDoWhile\obj\Debug\netcoreapp2.2\deafioDoWhile.AssemblyInfoInputs.cache
+C:\Users\fic\Documents\SENAI-BackEnd-CSharp\deafioDoWhile\obj\Debug\netcoreapp2.2\deafioDoWhile.AssemblyInfo.cs
+C:\Users\fic\Documents\SENAI-BackEnd-CSharp\deafioDoWhile\bin\Debug\netcoreapp2.2\deafioDoWhile.deps.json
+C:\Users\fic\Documents\SENAI-BackEnd-CSharp\deafioDoWhile\bin\Debug\netcoreapp2.2\deafioDoWhile.runtimeconfig.json
+C:\Users\fic\Documents\SENAI-BackEnd-CSharp\deafioDoWhile\bin\Debug\netcoreapp2.2\deafioDoWhile.runtimeconfig.dev.json
+C:\Users\fic\Documents\SENAI-BackEnd-CSharp\deafioDoWhile\bin\Debug\netcoreapp2.2\deafioDoWhile.dll
+C:\Users\fic\Documents\SENAI-BackEnd-CSharp\deafioDoWhile\bin\Debug\netcoreapp2.2\deafioDoWhile.pdb
+C:\Users\fic\Documents\SENAI-BackEnd-CSharp\deafioDoWhile\obj\Debug\netcoreapp2.2\deafioDoWhile.dll
+C:\Users\fic\Documents\SENAI-BackEnd-CSharp\deafioDoWhile\obj\Debug\netcoreapp2.2\deafioDoWhile.pdb

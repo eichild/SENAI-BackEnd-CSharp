@@ -1,0 +1,11 @@
+C:\Users\fic\Documents\SENAI-BackEnd-CSharp\exercicioLaçoRepetição\exercicio_3\bin\Debug\netcoreapp2.2\exercicio_3.deps.json
+C:\Users\fic\Documents\SENAI-BackEnd-CSharp\exercicioLaçoRepetição\exercicio_3\bin\Debug\netcoreapp2.2\exercicio_3.runtimeconfig.json
+C:\Users\fic\Documents\SENAI-BackEnd-CSharp\exercicioLaçoRepetição\exercicio_3\bin\Debug\netcoreapp2.2\exercicio_3.runtimeconfig.dev.json
+C:\Users\fic\Documents\SENAI-BackEnd-CSharp\exercicioLaçoRepetição\exercicio_3\bin\Debug\netcoreapp2.2\exercicio_3.dll
+C:\Users\fic\Documents\SENAI-BackEnd-CSharp\exercicioLaçoRepetição\exercicio_3\bin\Debug\netcoreapp2.2\exercicio_3.pdb
+C:\Users\fic\Documents\SENAI-BackEnd-CSharp\exercicioLaçoRepetição\exercicio_3\obj\Debug\netcoreapp2.2\exercicio_3.csprojAssemblyReference.cache
+C:\Users\fic\Documents\SENAI-BackEnd-CSharp\exercicioLaçoRepetição\exercicio_3\obj\Debug\netcoreapp2.2\exercicio_3.csproj.CoreCompileInputs.cache
+C:\Users\fic\Documents\SENAI-BackEnd-CSharp\exercicioLaçoRepetição\exercicio_3\obj\Debug\netcoreapp2.2\exercicio_3.AssemblyInfoInputs.cache
+C:\Users\fic\Documents\SENAI-BackEnd-CSharp\exercicioLaçoRepetição\exercicio_3\obj\Debug\netcoreapp2.2\exercicio_3.AssemblyInfo.cs
+C:\Users\fic\Documents\SENAI-BackEnd-CSharp\exercicioLaçoRepetição\exercicio_3\obj\Debug\netcoreapp2.2\exercicio_3.dll
+C:\Users\fic\Documents\SENAI-BackEnd-CSharp\exercicioLaçoRepetição\exercicio_3\obj\Debug\netcoreapp2.2\exercicio_3.pdb
