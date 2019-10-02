@@ -6,5 +6,6 @@ namespace exercicio4.Models
         public int Subtracao { get; set; }
         public int Multiplicacao { get; set; }
         public int Divisao { get; set; }
+       
     }
 }

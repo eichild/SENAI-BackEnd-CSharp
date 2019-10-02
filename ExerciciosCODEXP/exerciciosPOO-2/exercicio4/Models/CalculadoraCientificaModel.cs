@@ -1,7 +1,7 @@
 namespace exercicio4.Models
 {
-    public class CalculadoraCientificaModel
+    public class CalculadoraCientificaModel : CalculadoraModel
     {
-        public int potencia { get; set; }
+        public double potencia { get; set; }
     }
 }
